@@ -6,7 +6,7 @@
 #wrapper{
     width: 970px;
     height: 700px;
-    margin: 0px auto;
+    margin: 0px;
     background-color: #cacfd3;
     color: rgb(171, 187, 177);
 
@@ -25,7 +25,7 @@
     display: inline block;
 }
 #internetheader h1 {
-   margin-left: 400px;
+    margin-left: 400px;
     display: inline;
     vertical-align: top;
     color: white;
@@ -37,25 +37,55 @@
     background-color: #b2b6b9;
     color: rgb(187, 183, 171);    
 }
+#supermaincontent {
+    width: 970px;
+    height: 700px;
+    background-color: #23270d;
+    display: inline-block;
+}
+#maincontent {
+    width: 770px;
+    height: 600px;
+    background-color: #9eb1d4;
+    display: inline-block;
+    vertical-align: top;
+}
+#dnsphone {
+    width: 770px;
+    height: 50px;
+    background-color: #9ed4aa;
+    display: inline-block;
+
+}
+#bigthree {
+    width: 675px;
+    height: 100px;
+    vertical-align: bottom;
+    background-color: #6b7e88;
+    margin-top: 450px;
+    margin-left: 70px;
+    margin-right: 75px;
+}
 #sidebarmain {
     width: 150px;
     height: 300px;
     padding: 20px;
-    /* margin: 0px auto; */
+    margin: 0px auto;
     background-color: #245876; 
     display: inline-block;
 }
 #sidebartop{
-    width: 150px;
+    width: 140px;
     height: 125px;
     display: inline-block;
     background-color: #76243f;
+    padding: 5px 5px 5px 5px;
 }
 #sidebartop p{
     color: black;
 }
 #sidebarbottom {
-    width: 150px;
+    width: 140px;
     height: 165px;
     display: inline-block;
     background-color: #7cadaf;
@@ -64,12 +94,12 @@
     padding: 0px 5px;
     border-top: 4px solid #3a3f44;
 }
-#dnsphone {
-    width: 770px;
-    height: 50px;
-    background-color: #9ed4aa;
+
+
+    
+/* #maincontent p {
     display: inline-block;
     vertical-align: top;
-
-
-}
+    color: white;
+  
+} */
