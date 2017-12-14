@@ -12,7 +12,7 @@
 
 }
 #internetheader {
-    width: 970px;
+    width: 930px;
     height: 50px;
     padding: 20px;
     margin: 0px auto;
@@ -36,4 +36,40 @@
     margin: 0px auto;
     background-color: #b2b6b9;
     color: rgb(187, 183, 171);    
+}
+#sidebarmain {
+    width: 150px;
+    height: 300px;
+    padding: 20px;
+    /* margin: 0px auto; */
+    background-color: #245876; 
+    display: inline-block;
+}
+#sidebartop{
+    width: 150px;
+    height: 125px;
+    display: inline-block;
+    background-color: #76243f;
+}
+#sidebartop p{
+    color: black;
+}
+#sidebarbottom {
+    width: 150px;
+    height: 165px;
+    display: inline-block;
+    background-color: #7cadaf;
+    font-weight: normal;
+    color: #cbad04;
+    padding: 0px 5px;
+    border-top: 4px solid #3a3f44;
+}
+#dnsphone {
+    width: 770px;
+    height: 50px;
+    background-color: #9ed4aa;
+    display: inline-block;
+    vertical-align: top;
+
+
 }
