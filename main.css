@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#wrapper{
+    width: 970px;
+    height: 700px;
+    margin: 0px auto;
+    background-color: #cacfd3;
+    color: rgb(171, 187, 177);
+
+}
+#internetheader {
+    width: 970px;
+    height: 50px;
+    padding: 20px;
+    margin: 0px auto;
+    background-color: #762472;
+   
+}
+#internetheader img {
+    width: 100px;
+    margin: 0px 15px;
+    display: inline block;
+}
+#internetheader h1 {
+   margin-left: 400px;
+    display: inline;
+    vertical-align: top;
+    color: white;
+}
+#www {
+    width: 970px;
+    height: 50px;
+    margin: 0px auto;
+    background-color: #b2b6b9;
+    color: rgb(187, 183, 171);    
+}
